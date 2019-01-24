@@ -8,9 +8,17 @@
 
 # 목차
 
-http://www.yes24.com/24/goods/66758183
-목차는 저런식으로 해보면 어떨까.
 
+목차는 저런식으로 해보면 어떨까.
+* http://www.yes24.com/24/goods/66758183
+
+* https://sarabander.github.io/sicp/html/index.xhtml#toc-Building-Abstractions-with-Procedures
+SICP식으로 하면 너무 딱딱할것같다.
+* 영어<->한국말은 sicp번역본처럼 어색하게(익숙치않게) 하지말자.
+
+
+* Emacs
+  - 필수로 해야할까?
 * helloworld
 * in/out
   - 입력처리. stdin/stdout
@@ -50,7 +58,7 @@ http://www.yes24.com/24/goods/66758183
   - command
   - seed
   - Actor Model
-
+* 벽돌깨기
 * 3D
   - OpenGL - jogl
 * network
@@ -65,6 +73,7 @@ http://www.yes24.com/24/goods/66758183
   - json
   - edn
   - Protobuf
+* embeded language . interpreter
 * Macro
   - Dependence injection - https://github.com/kumarshantanu/dime
 
@@ -74,6 +83,8 @@ http://www.yes24.com/24/goods/66758183
   - https://github.com/clojure/algo.monads
 * AI
   - 길찾기 astar
+* 미러 굴절
+* 장기
   - alpha beta prunning
   - minimax
 
