@@ -1,3 +1,5 @@
+# transducer
+
 Transducers
 ===========
 
@@ -34,3 +36,6 @@ https://bendyworks.com/transducers-clojures-next-big-idea/
 
 
 http://blog.eikeland.se/2014/10/06/pid-transducer/?utm_content=buffer75806
+
+https://labs.uswitch.com/transducers-from-the-ground-up-the-essence/
+https://labs.uswitch.com/transducers-from-the-ground-up-the-practice/

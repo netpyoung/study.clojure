@@ -1,0 +1,14 @@
+[book]
+title = "study.clojure"
+description = "공부 - 클로저"
+authors = ["netpyoung"]
+language = "kr"
+multilingual = false
+src = "src"
+
+[output.html]
+no-section-label = true
+site-url = "/study.clojure/"
+git-repository-url = "https://github.com/netpyoung/study.clojure"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/netpyoung/study.clojure/edit/main/{path}"
