@@ -1,6 +1,6 @@
 [book]
-title = "study.clojure"
-description = "공부 - 클로저"
+title = "넷평의 Clojure 노트"
+description = "study.clojure    "
 authors = ["netpyoung"]
 language = "kr"
 multilingual = false

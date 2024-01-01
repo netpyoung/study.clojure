@@ -1,19 +1,18 @@
-# java interop
-- https://clojure.org/reference/java_interop
-- https://purelyfunctional.tv/article/tricks-for-java-interop/
-- etc
-  - https://clojuredocs.org/clojure.core/munge
-  - https://clojuredocs.org/clojure.main/demunge
-- https://dzone.com/articles/running-xccompilecommand-on-windows
+# interop-c
 
-# c interop
-https://knight76.tistory.com/entry/jni-vs-jna
+- <https://github.com/netpyoung/pt.c-interop-in-clojure> 참고
+- <https://knight76.tistory.com/entry/jni-vs-jna>
+
+
+--------------
+
+## wip
+
 1.     JNI (Java Native Interface)
 - https://thebreakfastpost.com/2012/01/21/wrapping-a-c-library-with-jni-introduction/
 
 javc TestJNI.java
 javah -jni TestJNI
-
 
 
 2.     JNA (Java Native Access)

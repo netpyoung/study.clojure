@@ -1,14 +1,11 @@
 # transducer
 
-Transducers
-===========
-
 transducers : `reducing function transformation`
 
 
-http://clojure.org/transducers
-http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming
-http://conscientiousprogrammer.com/blog/2014/08/07/understanding-cloure-transducers-through-types/
+- <http://clojure.org/transducers>
+- <http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming>
+- <http://conscientiousprogrammer.com/blog/2014/08/07/understanding-cloure-transducers-through-types/>
 
 
 
@@ -19,8 +16,6 @@ http://phuu.net/2014/08/31/csp-and-transducers.html
 
 
 `composable` way to build `algorithmic transformations`
-
-
 
 
     It cannot be parallelised.

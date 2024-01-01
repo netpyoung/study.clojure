@@ -1,5 +1,7 @@
 # study.clojure
 
+- clojurescript는 [study.clojurescript](https://netpyoung.github.io/study.clojurescript/) 참고
+
 ## 해온것
 
 - <https://lispkorea.github.io/tryclojure-kr/>
