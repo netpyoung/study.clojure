@@ -88,7 +88,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">둘러보기</a></li><li class="chapter-item expanded affix "><li class="part-title">interop</li><li class="chapter-item expanded "><a href="interop/interop-java.html">interop-java</a></li><li class="chapter-item expanded "><a href="interop/interop-c.html">interop-c</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">둘러보기</a></li><li class="chapter-item expanded affix "><li class="part-title">Tool</li><li class="chapter-item expanded "><a href="tool/babashka.html">babashka</a></li><li class="chapter-item expanded affix "><li class="part-title">interop</li><li class="chapter-item expanded "><a href="interop/interop-java.html">interop-java</a></li><li class="chapter-item expanded "><a href="interop/interop-c.html">interop-c</a></li><li class="chapter-item expanded affix "><li class="part-title">Deprecated</li><li class="chapter-item expanded "><a href="deprecated/boot.html">boot</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -202,6 +202,22 @@
 <li><a href="https://github.com/netpyoung/cljpyoung.spels">https://github.com/netpyoung/cljpyoung.spels</a></li>
 <li><a href="https://github.com/netpyoung/cljpyoung.tetris">https://github.com/netpyoung/cljpyoung.tetris</a></li>
 </ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="babashka"><a class="header" href="#babashka">babashka</a></h1>
+<ul>
+<li>
+<p><a href="https://book.babashka.org/">메뉴얼</a></p>
+</li>
+<li>
+<p><a href="https://github.com/babashka/SCI">sci</a></p>
+<ul>
+<li>Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs</li>
+</ul>
+</li>
+</ul>
+<h2 id="bbedn"><a class="header" href="#bbedn">bb.edn</a></h2>
+<ul>
+<li><a href="https://book.babashka.org/#_bb_edn">https://book.babashka.org/#_bb_edn</a></li>
+</ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="interop-java"><a class="header" href="#interop-java">interop-java</a></h1>
 <ul>
 <li><a href="https://clojure.org/reference/java_interop">https://clojure.org/reference/java_interop</a></li>
@@ -250,6 +266,29 @@ javah -jni TestJNI</p>
 <ul>
 <li>https://github.com/jnr/jnr-ffi</li>
 <li>https://www.lvh.io/CCryptoClojure/</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="boot"><a class="header" href="#boot">Boot</a></h1>
+<ul>
+<li>프로젝트 관리 프로그램이 있어야겠다. <a href="http://boot-clj.com/">boot</a>를 사용하자.</li>
+<li>새 프로젝트 생성은 <a href="https://github.com/boot-clj/boot-new">boot-new</a>를 이용하자.</li>
+</ul>
+<pre><code class="language-bash">        boot -d boot/new new -t app -n sample
+</code></pre>
+<h2 id="fileset"><a class="header" href="#fileset"><a href="https://github.com/boot-clj/boot/wiki/Filesets">Fileset</a></a></h2>
+<ul>
+<li>TODO(pyoung) boot fileset설명.
+<ul>
+<li><code>:resource-paths</code> : <code>.jar</code>에 포함되는 파일.</li>
+</ul>
+</li>
+</ul>
+<h2 id="task"><a class="header" href="#task">Task</a></h2>
+<ul>
+<li><a href="https://github.com/seancorfield/boot-tools-deps">https://github.com/seancorfield/boot-tools-deps</a></li>
+</ul>
+<h2 id="etc"><a class="header" href="#etc">etc</a></h2>
+<ul>
+<li><a href="https://github.com/pesterhazy/boot-fmt">https://github.com/pesterhazy/boot-fmt</a></li>
 </ul>
 
                     </main>
